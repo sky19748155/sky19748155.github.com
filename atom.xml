@@ -4,7 +4,7 @@
   <subtitle><![CDATA[码农，程序猿，未来的昏析狮]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://ibruce.info/"/>
-  <updated>2015-05-25T06:39:02.000Z</updated>
+  <updated>2015-06-05T02:21:09.750Z</updated>
   <id>http://ibruce.info/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://ibruce.info/2015/04/04/busuanzi/"/>
     <id>http://ibruce.info/2015/04/04/busuanzi/</id>
     <published>2015-04-04T01:12:45.000Z</published>
-    <updated>2015-05-25T06:39:02.000Z</updated>
+    <updated>2015-06-05T02:21:09.750Z</updated>
     <content type="html"><![CDATA[<p>静态网站建站现在有很多快速的技术和平台，但静态是优点也有缺点，由于是静态的，一些动态的内容如评论、计数等等模块就需要借助外来平台，评论有<a href="http://duoshuo.com" target="_blank" rel="external">“多说”</a>，计数有<a href="http://service.ibruce.info" target="_blank" rel="external">“不蒜”</a>！</p>
 <blockquote>
 <p><strong><a href="http://service.ibruce.info" target="_blank" rel="external">“不蒜子”</a>与百度统计谷歌分析等有区别：<a href="http://service.ibruce.info" target="_blank" rel="external">“不蒜子”</a>可直接将访问次数显示在您在网页上（也可不显示）；对于已经上线一段时间的网站，<a href="http://service.ibruce.info" target="_blank" rel="external">“不蒜子”</a>允许您初始化首次数据。。</strong></p>
@@ -52,6 +52,7 @@
 <li><a href="http://www.gcrimson.com" target="_blank" rel="external">http://www.gcrimson.com</a></li>
 <li><a href="http://libk.net" target="_blank" rel="external">http://libk.net</a></li>
 <li><a href="http://ztyoung.me" target="_blank" rel="external">http://ztyoung.me</a></li>
+<li><a href="http://blog.itmyhome.com" target="_blank" rel="external">http://blog.itmyhome.com</a></li>
 </ul>
 <h2 id="2、显示单页面访问量">2、显示单页面访问量</h2><p>要显示每篇文章的访问量，复制以下代码添加到你需要显示的位置。</p>
 <p>算法：pv的方式，单个用户点击1篇文章，本篇文章记录1次阅读量。<br><figure class="highlight xml"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="title">span</span> <span class="attribute">id</span>=<span class="value">"busuanzi_container_page_pv"</span>&gt;</span></span><br><span class="line">  本文总阅读量<span class="tag">&lt;<span class="title">span</span> <span class="attribute">id</span>=<span class="value">"busuanzi_value_page_pv"</span>&gt;</span><span class="tag">&lt;/<span class="title">span</span>&gt;</span>次</span><br><span class="line"><span class="tag">&lt;/<span class="title">span</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
@@ -533,7 +534,7 @@
 <li>我们的口号：没有难做的菜！</li>
 </ul>
 <blockquote>
-<p>本司承接各种微信公众号申请、开发工作，物美价廉，童叟无欺，请联系 <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x62;&#117;&#46;&#x72;&#x75;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#x6d;">&#x62;&#117;&#46;&#x72;&#x75;&#x40;&#113;&#x71;&#x2e;&#99;&#111;&#x6d;</a>。</p>
+<p>本司承接各种微信公众号申请、开发工作，物美价廉，童叟无欺，请联系 <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x62;&#117;&#x2e;&#114;&#117;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#x62;&#117;&#x2e;&#114;&#117;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a>。</p>
 </blockquote>
 ]]></content>
     <summary type="html">
